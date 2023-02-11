@@ -6,3 +6,10 @@
 
 ## Installation of Rasa  on windows
 <a href="https://rasa.com/docs/rasa/2.x/installation/">link for installation guide </a>
+
+# Documentation Rasa :
+<li>Rasa uses YAML as a unified and extendable way to manage all training data, including NLU data, stories and rules.</li>
+
+
+### Stories :
+<li></>
