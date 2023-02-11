@@ -10,7 +10,7 @@
 # Documentation Rasa :
 <li>Rasa uses YAML as a unified and extendable way to manage all training data, including NLU data, stories and rules.</li>
 
-# Terminology
+<h1 style="text-align: center;">Terminology</h1>
 ## Intent
 <li>In a given user message, the thing that a user is trying to convey or accomplish (e,g., greeting, specifying a location).</li>
 
